@@ -18,7 +18,7 @@ Ao apagar uma anotação, retornará uma mensagem de notação excluída
   `npm install -g json-server`
   ```
   
-  ###execução
+  ### execução
   Executa o aplicativo no modo de desenvolvimento.
 ```s
   `npm run dev`
